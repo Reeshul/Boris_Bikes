@@ -1,5 +1,5 @@
-# Boris_Bikes
-Makers Academy challenge to create a virtual Boris Bikes
+# Boris Bikes
+Makers Academy challenge to create a virtual Boris Bikes system.
 
-A program that emulates all the docking stations, bikes, and infrastructure (repair staff, and so on) required to make their dream a reality.
+A program that will emulate all the docking stations, bikes, and infrastructure.
 
